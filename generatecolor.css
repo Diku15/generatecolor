@@ -1,0 +1,22 @@
+/*.red{
+    color: red;
+}
+<h1>spider man</h1>
+    // <div id="btn">click me</div>
+#blue{
+    color: blue;
+}
+.third{
+    background-color: pink;
+    border: 2px solid black;
+}*/
+*{
+    text-align: center;
+}
+div{
+    height: 300px;
+    width:800px;
+    border: 1px solid black;
+    margin-left: 300px;
+
+}
